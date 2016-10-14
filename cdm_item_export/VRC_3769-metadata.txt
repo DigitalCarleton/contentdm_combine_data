@@ -1,0 +1,17 @@
+Item Metadata for: http://contentdm.carleton.edu/cdm/ref/collection/VRC/id/3769
+Collection Title: Visual Resources Collection, Art and Art History
+Title: #27 Redwing
+Work Type: relief
+View Description: full view
+Creator ULAN display: Charles Joseph Biederman
+Creator: Biederman, Charles Joseph, 1906-
+Date: 1968
+Era: 1960s
+Technique: sculpting
+Culture: American
+Period: 20th Century
+Media: Sculpture
+Current Location: Walker Art Center (Minneapolis, Minnesota, USA)
+VRC Identifier: vrc029161
+Relation Object Number: 021074
+Import Group Name: Cdm042006

@@ -1,0 +1,21 @@
+Item Metadata for: http://contentdm.carleton.edu/cdm/ref/collection/VRC/id/20996
+Collection Title: Visual Resources Collection, Art and Art History
+Title: #1054
+Work Type: vessel (container)
+View Description: full view
+Creator ULAN display: Richard DeVore
+Creator: DeVore, Richard, 1933-2006
+Date: 2002
+Era: 2000s
+Media and Support: ceramic
+Dimensions: 14 in. x 13 in. x 12 in.
+Culture: American
+Period: 20th Century
+Media: Ceramics
+Bibliographic Source: Ceramic Annual 2004 : Ruth Chandler Williamson Gallery, Scripps College ...
+Source Page Number: 59
+Figure/Plate Number: 18
+Requested By: Juliane Shibata
+VRC Identifier: vrc105535
+Relation Object Number: 073925
+Import Group Name: Cdm071002
